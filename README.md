@@ -22,6 +22,8 @@ streamlit run app.py
 
 ```requirements.txt``` – Dependencies
 
+```sms_Spam_Classifier.ipynb``` - Model training
+
 ---
 
 ## 💡 Features
