@@ -4,6 +4,10 @@ A simple Streamlit web app that classifies SMS or Email messages as **Spam** or 
 
 🔗 Live App: [Click Here](https://sms-or-email-classifier.streamlit.app/)
 
+## 📸 Screenshot
+
+![App Screenshot](https://raw.githubusercontent.com/anwar-opu/Email_Or_SMS_Spam_Classifier/main/spam_classifier_demo.png)
+
 
 ## 🚀 How to Run
 
